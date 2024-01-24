@@ -12,7 +12,10 @@ print(num1 if num1>=num2 else num2)
 
 we can also use sort function to find max in list value, however time complexity may impact, better to avoid
 """
+
+
 # solution 3
+
 
 def max_value(num1, num2):
     if num1 > num2:
@@ -23,5 +26,5 @@ def max_value(num1, num2):
 
 input1 = float(input("enter first number to compare:"))
 input2 = float(input("enter second number to compare:"))
-maximum = max_value(input1,input2)
+maximum = max_value(input1, input2)
 print(f"value of {maximum} is maximum among your input {input1} and {input2}")

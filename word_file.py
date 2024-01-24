@@ -1,1 +1,1 @@
-word_list = ["elephant","computer", "butterfly","pineapple","mobile","railway", "india","bollywood","sound", "fight","gold", "colth"]
+word_list = ["elephant", "computer", "butterfly", "pineapple", "mobile", "railway", "india", "bollywood", "sound", "fight", "gold", "colth"]
